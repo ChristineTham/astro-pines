@@ -12,8 +12,11 @@
     "lint:eslint": "eslint --fix \"src/**/*.{js,ts,jsx,tsx,astro}\""
   },
   "dependencies": {
+    "@astrojs/alpinejs": "^0.4.0",
     "@astrojs/rss": "^4.0.10",
     "@astrojs/sitemap": "^3.2.1",
+    "@types/alpinejs": "^3.13.11",
+    "alpinejs": "^3.14.7",
     "astro": "^5.0.5"
   },
   "devDependencies": {
